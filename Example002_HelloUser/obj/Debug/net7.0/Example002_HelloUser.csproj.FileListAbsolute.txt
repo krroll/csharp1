@@ -1,0 +1,15 @@
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.exe
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.deps.json
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.runtimeconfig.json
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.dll
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.pdb
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.AssemblyReference.cache
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfoInputs.cache
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfo.cs
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.dll
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\obj\Debug\net7.0\refint\Example002_HelloUser.dll
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
+O:\Документы\Сайт\diagrama\gb\Знакомство с языками программирования\1 Урок\Examples\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll
